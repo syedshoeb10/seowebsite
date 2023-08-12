@@ -1,0 +1,28 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: aquamarine;
+    position: absolute;
+}
+.container{
+    /* align-items: center;
+    justify-content: center;
+    background-color: black;
+    position: relative;
+    transform: translate(-50%); */
+}
+.container .small-container{
+    background-color: azure;
+    width: 120px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    transform: translate(+80% , +70%);
+    position: relative;
+
+}
+.small-container p{
+    text-align: center;
+} */
